@@ -1,0 +1,9 @@
+INDEX VERSION 1.3+D:\DIN51002861\Hackathon_Mycampus\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2891458110.index
+1881007811.index
+3212484101.index
+1030156729.index
+3578024757.index
+2672634201.index
+189235875.index
+3578024757.index
